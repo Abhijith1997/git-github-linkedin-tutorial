@@ -3,7 +3,10 @@ tets
 text added
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> de0f13fc7096c7210c111384c89da4d12bd05a4d
 git commit --amend
 git commit --amend -m "with new commit message --no-edit"
 git commit --amend
