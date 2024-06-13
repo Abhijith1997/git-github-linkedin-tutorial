@@ -2,6 +2,6 @@ tets
 
 
 
-git commit --ammend
-git commit --ammend -m "with new commit message --no-edit"
-git commit --ammend
+git commit --amend
+git commit --amend -m "with new commit message --no-edit"
+git commit --amend
