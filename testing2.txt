@@ -1,5 +1,7 @@
 tets
 
+text added
+
 
 
 git commit --amend
